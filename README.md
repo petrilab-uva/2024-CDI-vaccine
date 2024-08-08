@@ -42,7 +42,7 @@ conda activate ENVIRONMENT_NAME_HERE
 ## Setup
 There are several files that are required for this analysis but not included. Instructions for downloading these files are outlined below:
 
-1. Sequencing files have been uploaded to the NCBI Sequence Read Archive (SRA) and are available under Bioproject Accession Number **___INCLUDE ACCESSION NUMBER HERE___**. RNAseq FASTQ files should be placed within a `raw_reads` folder in the `data` directory.
+1. Sequencing files have been uploaded to the NCBI Sequence Read Archive (SRA) and are available under Bioproject Accession ID PRJNA1139815. RNAseq FASTQ files should be placed within a `raw_reads` folder in the `data` directory.
 
 2. Two murine genomic data sets are required for these analyses. These files can be accessed from [Ensembl.org as an FTP download](https://useast.ensembl.org/info/data/ftp/index.html). I used release version 109, but more up-to-date releases may be currently available. These versions can be used, **but ensure that the same release version is used for both files!** Instructions for obtaining these files are outlined below.
      * A *Mus musculus* cDNA file containing all transcript sequences is required to generate an index file used for read mapping. I used release 109, which is available [here](https://ftp.ensembl.org/pub/release-109/fasta/mus_musculus/cdna/). This file should be placed within the `data` directory. Code for generating the .index file from this file is commented out within the .sh script.
