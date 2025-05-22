@@ -1,5 +1,5 @@
 # Development of a Next-Generation Vaccine Against Clostridioides difficile Infection
-Farha Naz, Nicholas Hagspiel, Feifan Xu, Brandon Thompson, G. Brett Moreau, Mary Young, Joel Herbein, Christopher B Fox, William A Petri, and Mayuresh M Abhyankar
+Farha Naz, Nicholas Hagspiel, Feifan Xu, Brandon Thompson, G. Brett Moreau, Mary Young, Joel Herbein, Christopher B. Fox, William A. Petri, and Mayuresh M. Abhyankar
 
 
 ## Project Summary
